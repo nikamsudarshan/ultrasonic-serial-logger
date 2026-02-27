@@ -49,5 +49,3 @@ python sensor_logger.py
 ```
 
 A window will pop up showing the live distance data. To stop the program and save the data, simply close the graph window. The timestamped CSV file will automatically be generated in the same directory as the script.
-
-```
